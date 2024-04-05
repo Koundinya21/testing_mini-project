@@ -1,0 +1,46 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-img {
+  width: 405px;
+  height: 350px;
+  top: 306px;
+  left: 483px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 55px;
+}
+.not-found-heading {
+  width: 256px;
+  height: 44px;
+  top: 634px;
+  left: 593px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: HK Grotesk;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  text-align: left;
+  color: #334155;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.content-not-found {
+  width: 405px;
+  height: 24px;
+  top: 694px;
+  left: 518px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: HK Grotesk;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #64748b;
+  margin-top: 0px;
+}

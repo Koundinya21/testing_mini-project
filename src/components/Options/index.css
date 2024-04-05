@@ -1,0 +1,95 @@
+.Default-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.Default-list-item {
+  /* margin: 10px;
+  
+  width: 65px;
+  height: 32px;
+  top: 263px;
+  left: 104px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  border-radius: 10px;
+  padding: 18px; */
+  width: 380px;
+  height: 35px;
+  top: 247px;
+  left: 80px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 600;
+  flex-wrap: wrap;
+  background-color: #b7c9e2;
+  border-radius: 8px;
+  margin: 10px;
+  padding-left: 10px;
+  color: #334155;
+}
+
+.Image-options-container {
+  list-style-type: none;
+}
+
+.image-options {
+  width: 320px;
+  height: 100px;
+  top: 277px;
+  left: 82px;
+}
+.single-option-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.single-option {
+  width: 288px;
+  height: 40px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+  opacity: 0px;
+}
+.single-option-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #323f4b;
+}
+
+.options-btn {
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.default-btn {
+  border: 0px;
+  background-color: transparent;
+}
+.active-btn-default {
+  background: #5b6f94;
+}
+
+.active-image-class {
+  border: 2px solid #263868;
+  width: auto;
+}
+.image-list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

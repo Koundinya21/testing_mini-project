@@ -1,0 +1,139 @@
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffffff;
+  background-size: cover;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #7b879429;
+  background-color: #ffffff;
+  width: 456px;
+  height: 468px;
+  top: 278px;
+  left: 492px;
+  border-radius: 8px;
+}
+.icon-container {
+  width: 98px;
+  height: 56px;
+  top: 326px;
+  left: 671px;
+}
+.icon {
+  width: 98px;
+  height: 56px;
+  top: 326px;
+  left: 671px;
+  margin-bottom: 0px;
+  background-color: transparent;
+}
+.icon-name {
+  margin-top: 0px;
+  width: 98px;
+  height: 19px;
+  top: 363px;
+  left: 671px;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.2 px;
+  color: #263868;
+}
+.icon-name-part {
+  font-family: Futura Md BT;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 900;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+}
+
+.username {
+  width: 65px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 1%;
+  text-align: left;
+  color: #7e858e;
+}
+
+.password {
+  width: 65px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 1%;
+  text-align: left;
+  color: #7e858e;
+}
+
+.input-box {
+  width: 360px;
+  height: 40px;
+  top: 24px;
+  border-radius: 2px;
+  border: 1px;
+  border: 1px solid #d7dfe9;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+}
+
+.event-container {
+  width: 360px;
+  height: 64px;
+  top: 430px;
+  left: 540px;
+  letter-spacing: 0.5px;
+}
+.checkBox-container {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.checkBox {
+  width: 16px;
+  height: 16px;
+  border-radius: 2px;
+  border: 1px;
+}
+.checkbox-label {
+  width: 96px;
+  height: 24px;
+  left: 23px;
+
+  font-family: HK Grotesk;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.btn {
+  width: 360px;
+  height: 40px;
+  border-radius: 8px;
+  background: #263868;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
